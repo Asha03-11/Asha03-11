@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Asha Padhi</h1>
-# 💫 About Me:
+💫 About Me:
 📊 Data Analyst passionate about turning raw data into meaningful insights.<br>🔍 Skilled in SQL, Python, and data visualization tools.<br>📈 Experienced in analyzing trends and building dashboards.<br>💡 Focused on data-driven decision making and problem solving.
 
 
